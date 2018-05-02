@@ -1,3 +1,5 @@
+INCLUDE LOG.TXT FILE & VIDEO/SCREENSHOTS
+
 # bamazon
 Node.js & MySQL
 
